@@ -2,7 +2,7 @@
 
 This is a simple calculator featuring the golang project structure.
 
-It is written following the *"For the Love of Go"* Book by Kevin Cunningham.
+It is written following the *"For the Love of Go"* Book by John Arundel.
 
 The only difference is the updated command to run the calculator. It has added help message and option to run all calculator commands.
 
