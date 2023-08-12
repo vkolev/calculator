@@ -8,9 +8,9 @@ The only difference is the updated command to run the calculator. It has added h
 
 ## TODO
 
-[ ] Refactor the run command to be more clean
-[ ] Include at least two more functions to the calculator e.g. log, power, cos, sin
-[ ] Refactor the Sqrt function to not rely on `math` package
+* [ ] Refactor the run command to be more clean
+* [ ] Include at least two more functions to the calculator e.g. log, power, cos, sin
+* [ ] Refactor the Sqrt function to not rely on `math` package
 
 
 ## Build and run
